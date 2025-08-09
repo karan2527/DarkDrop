@@ -1,0 +1,17 @@
+# DarkDrop - Secure File Transfer Tool
+# Core dependencies for encryption and GUI functionality
+
+# Cryptographic library for AES-256 encryption, PBKDF2 key derivation
+cryptography>=3.4.8
+
+# GUI framework (usually included with Python, but specified for clarity)
+# tkinter  # Uncomment if not available in your Python installation
+
+# Optional: For better error handling and logging (uncomment if needed)
+# colorama>=0.4.4
+
+# Development dependencies (uncomment for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=4.0.0
